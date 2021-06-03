@@ -1,7 +1,7 @@
 # TFM: Aplicación de métodos semisupervisados para el reconocimiento de voces patológicas con afasia
 Este repositorio contiene tres scripst de python para el preprocesamiento y limpieza de los datos obtenidos en [AphasiaBank](https://talkbank.org/share/data.html). 
 
-- preprocessing_clean_data.ipynb.ipynb: script para la lectura, limpieza y creación del dataframe usado posteriormente para generar los cortes de audio donde el paciente habla. 
+- preprocessing_clean_data.ipynb: script para la lectura, limpieza y creación del dataframe usado posteriormente para generar los cortes de audio donde el paciente habla. 
 - convert_mp4_wav.py: script que convierte los videos de las conversaciones entre investigador y paiciente de mp4 a wav. 
 - aduio_chunks.py: script que genera los cortes de audios donde el paciente habla. 
 
@@ -28,7 +28,7 @@ Esta obra está sujeta a una licencia de Reconocimiento -  NoComercial - SinObra
 # TFM: Application of semi-supervised methods for the recognition of pathological voices in aphasia
 This repository contains three python scripst for preprocessing and cleaning the data obtained from [AphasiaBank](https://talkbank.org/share/data.html). 
 
-- preprocessing_clean_data.ipynb.ipynb: script for reading, cleaning and creating the dataframe used later to generate the audio slices where the patient speaks. 
+- preprocessing_clean_data.ipynb: script for reading, cleaning and creating the dataframe used later to generate the audio slices where the patient speaks. 
 - convert_mp4_wav.py: script that converts the videos of the conversations between researcher and patient from mp4 to wav. 
 - aduio_chunks.py: script that generates the audio cuts where the patient speaks. 
 
