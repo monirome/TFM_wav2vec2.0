@@ -22,7 +22,8 @@ Esta obra está sujeta a una licencia de Reconocimiento -  NoComercial - SinObra
 [3.0 España de CreativeCommons](https://creativecommons.org/licenses/by-nc-nd/3.0/es/)
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # TFM: Application of semi-supervised methods for the recognition of pathological voices in aphasia
 This repository contains three python scripst for preprocessing and cleaning the data obtained from [AphasiaBank](https://talkbank.org/share/data.html). 
